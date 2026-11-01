@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CookieSales" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#A60936</item><item name="colorPrimaryVariant">#85072B</item>
+        <item name="colorSecondary">#A60936</item><item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">#FFF9F6</item><item name="android:colorAccent">#A60936</item>
+    </style>
+</resources>
